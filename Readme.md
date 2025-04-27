@@ -1,8 +1,11 @@
 # KDebug - Kubernetes Debugging MCP Server
 
 KDebug is a Kubernetes debugging tool that allows you to interact with your Kubernetes clusters through Claude AI. It uses the Model Control Protocol (MCP) to enable Claude to execute Kubernetes commands on your behalf.
+
 <p align="center" width="100%">
-<video src='kdebug.mov' width="680"> </video>
+
+![](demo.gif)
+
 </p>
 
 ## Overview
