@@ -47,7 +47,7 @@ jobs:
           fi
           
           # Build the binary
-          go build -v -o build/$BINARY_NAME ./cmd/server/main.go
+          go build -v -o build/$BINARY_NAME main.go
           
           # Create a checksum file
           cd build
